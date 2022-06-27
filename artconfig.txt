@@ -245,3 +245,6 @@ AddCharModel(102, 20248, "brysonporter1.dff", "brysonporter1.txd");
 AddCharModel(102, 20249, "somyst.dff", "somyst.txd");
 
 AddCharModel(102, 20250, "andre.dff", "andre.txd");
+
+AddCharModel(12, 20251, "bfyri1.dff", "bfyri1.txd");
+AddCharModel(40, 20252, "TyrissRelease.dff", "TyrissRelease.txd");
