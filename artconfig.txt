@@ -252,3 +252,5 @@ AddCharModel(177, 20257, "damian.dff", "damian.txd");
 AddCharModel(93, 20258, "wfyst1.dff", "wfyst1.txd");
 AddCharModel(177, 20259, "male011.dff", "male011.txd");
 AddCharModel(102, 20260, "BLOODMONEY.dff", "BLOODMONEY.txd");
+AddCharModel(93, 20261, "sofyst1.dff", "sofyst1.txd");
+AddCharModel(102, 20262, "sfr3.dff", "sfr3.txd");
