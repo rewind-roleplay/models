@@ -255,3 +255,6 @@ AddCharModel(102, 20260, "BLOODMONEY.dff", "BLOODMONEY.txd");
 AddCharModel(93, 20261, "sofyst1.dff", "sofyst1.txd");
 AddCharModel(102, 20262, "sfr3.dff", "sfr3.txd");
 AddCharModel(177, 20263, "vla1.dff", "vla1.txd");
+AddCharModel(177, 20264, "vla2.dff", "vla2.txd");
+AddCharModel(177, 20265, "sfr1.dff", "sfr1.txd");
+AddCharModel(177, 20267, "flannel.dff", "flannel.txd");
