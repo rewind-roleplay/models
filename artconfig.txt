@@ -221,7 +221,6 @@ AddCharModel(60, 20227, "Tamplier2.dff", "Tamplier2.txd");
 AddCharModel(60, 20228, "PauldeRaque.dff", "PauldeRaque.txd");
 AddCharModel(60, 20229, "201.dff", "201.txd");
 AddCharModel(6, 20230, "smoke.dff", "smoke.txd");
-
 AddCharModel(102, 20230, "lpblood1.dff", "lpblood1.txd");
 AddCharModel(102, 20231, "lpblood2.dff", "lpblood2.txd");
 AddCharModel(102, 20232, "lpblood3.dff", "lpblood3.txd");
@@ -236,27 +235,21 @@ AddCharModel(102, 20240, "lpblood11.dff", "lpblood11.txd");
 AddCharModel(102, 20241, "lpblood12.dff", "lpblood12.txd");
 AddCharModel(33, 20242, "dwmolc2.dff", "dwmolc2.txd");
 AddCharModel(33, 20243, "hottuille.dff", "hottuille.txd");
-
 AddCharModel(102, 20244, "sbmost.dff", "sbmost.txd");
 AddCharModel(102, 20245, "KetrinJenkins.dff", "KetrinJenkins.txd");
 AddCharModel(102, 20246, "james.dff", "james.txd");
 AddCharModel(102, 20247, "Ice.dff", "Ice.txd");
 AddCharModel(102, 20248, "brysonporter1.dff", "brysonporter1.txd");
-
 AddCharModel(102, 20249, "somyst.dff", "somyst.txd");
-
 AddCharModel(102, 20250, "andre.dff", "andre.txd");
-
 AddCharModel(12, 20251, "bfyri1.dff", "bfyri1.txd");
 AddCharModel(40, 20252, "TyrissRelease.dff", "TyrissRelease.txd");
-
 AddCharModel(104, 20253, "somondre.dff", "somondre.txd");
 AddCharModel(250, 20254, "SiberianHusky.dff", "SiberianHusky.txd");
-
 AddCharModel(29, 20255, "wmydrug1.dff", "wmydrug1.txd");
 AddCharModel(177, 20256, "wmybar.dff", "wmybar.txd");
 AddCharModel(177, 20257, "damian.dff", "damian.txd");
-
 AddCharModel(93, 20258, "wfyst1.dff", "wfyst1.txd");
-
 AddCharModel(177, 20259, "male011.dff", "male011.txd");
+AddCharModel(102, 20260, "BLOODMONEY.dff", "BLOODMONEY.txd");
+AddCharModel(102, 20260, "somondre1.dff", "somondre1.txd");
