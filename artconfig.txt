@@ -17,6 +17,7 @@ AddSimpleModel(-1,13078, -4045, "gov.dff", "gov.txd");
 AddSimpleModel(-1,13078, -4037, "mall.dff", "mall.txd");
 AddSimpleModel(-1,13078, -4052, "piazza1.dff", "piazza2.txd");
 AddSimpleModel(-1,13081, -4053, "metromont.dff", "metromont.txd");
+AddSimpleModel(-1,13078, -4054, "piazza1.dff", "piazza2.txd");
 AddCharModel(280, 20000, "wmymech.dff", "wmymech.txd");
 AddCharModel(126, 20001, "vmaff3.dff", "vmaff3.txd");
 AddCharModel(7, 20002, "bmybar.dff", "bmybar.txd");
