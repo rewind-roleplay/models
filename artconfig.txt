@@ -253,5 +253,7 @@ AddCharModel(104, 20253, "somondre.dff", "somondre.txd");
 AddCharModel(250, 20254, "SiberianHusky.dff", "SiberianHusky.txd");
 
 AddCharModel(29, 20255, "wmydrug1.dff", "wmydrug1.txd");
-AddCharModel(177, 20255, "wmybar.dff", "wmybar.txd");
-AddCharModel(177, 20255, "damian.dff", "damian.txd");
+AddCharModel(177, 20256, "wmybar.dff", "wmybar.txd");
+AddCharModel(177, 20257, "damian.dff", "damian.txd");
+
+AddCharModel(93, 20258, "wfyst1.dff", "wfyst1.txd");
