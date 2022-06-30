@@ -269,3 +269,4 @@ AddCharModel(206, 20274, "vwmycd1.dff", "vwmycd1.txd");
 AddCharModel(179, 20275, "wmyammo1.dff", "wmyammo1.txd");
 AddCharModel(217, 20276, "wmyclot1.dff", "wmyclot1.txd");
 AddCharModel(29, 20277, "wmydrug3.dff", "wmydrug3.txd");
+AddCharModel(29, 20278, "PBS.dff", "PBS.txd");
