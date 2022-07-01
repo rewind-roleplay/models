@@ -261,7 +261,6 @@ AddCharModel(177, 20267, "flannel.dff", "flannel.txd");
 AddCharModel(12, 20268, "vivi.dff", "vivi.txd");
 AddCharModel(12, 20269, "kappa.dff", "kappa.txd");
 AddCharModel(175, 20270, "sfr5.dff", "sfr5.txd");
-
 AddCharModel(292, 20271, "cesar1.dff", "cesar1.txd");
 AddCharModel(268, 20272, "dwayne1.dff", "dwayne1.txd");
 AddCharModel(112, 20273, "maffb1.dff", "maffb1.txd");
@@ -270,3 +269,7 @@ AddCharModel(179, 20275, "wmyammo1.dff", "wmyammo1.txd");
 AddCharModel(217, 20276, "wmyclot1.dff", "wmyclot1.txd");
 AddCharModel(29, 20277, "wmydrug3.dff", "wmydrug3.txd");
 AddCharModel(29, 20278, "PBS.dff", "PBS.txd");
+AddCharModel(12, 20279, "flannel2.dff", "flannel2.txd");
+AddCharModel(12, 20280, "gungrl32.dff", "gungrl32.txd");
+AddCharModel(29, 20281, "yanez.dff", "yanez.txd");
+AddCharModel(29, 20282, "cholerov2.dff", "cholerov1.txd");
