@@ -276,6 +276,7 @@ AddCharModel(29, 20282, "cholerov2.dff", "cholerov1.txd");
 AddCharModel(29, 20283, "higrax.dff", "higrax.txd");
 
 AddCharModel(29, 20284, "ander.dff", "ander.txd");
-AddCharModel(12, 20284, "bmost1.dff", "bmost1.txd");
-AddCharModel(29, 20284, "Desmond_Miles.dff", "Desmond_Miles.txd");
-AddCharModel(29, 20284, "lsv2.dff", "lsv2.txd");
+AddCharModel(12, 20285, "bmost1.dff", "bmost1.txd");
+AddCharModel(29, 20286, "Desmond_Miles.dff", "Desmond_Miles.txd");
+AddCharModel(29, 20287, "lsv2.dff", "lsv2.txd");
+AddCharModel(29, 20288, "cesar2.dff", "cesar2.txd");
