@@ -274,3 +274,8 @@ AddCharModel(12, 20280, "gungrl32.dff", "gungrl32.txd");
 AddCharModel(29, 20281, "yanez.dff", "yanez.txd");
 AddCharModel(29, 20282, "cholerov2.dff", "cholerov1.txd");
 AddCharModel(29, 20283, "higrax.dff", "higrax.txd");
+
+AddCharModel(29, 20284, "ander.dff", "ander.txd");
+AddCharModel(12, 20284, "bmost1.dff", "bmost1.txd");
+AddCharModel(29, 20284, "Desmond_Miles.dff", "Desmond_Miles.txd");
+AddCharModel(29, 20284, "lsv2.dff", "lsv2.txd");
