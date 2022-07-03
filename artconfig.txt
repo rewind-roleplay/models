@@ -280,3 +280,9 @@ AddCharModel(12, 20285, "bmost1.dff", "bmost1.txd");
 AddCharModel(29, 20286, "Desmond_Miles.dff", "Desmond_Miles.txd");
 AddCharModel(29, 20287, "lsv2.dff", "lsv2.txd");
 AddCharModel(29, 20288, "cesar2.dff", "cesar2.txd");
+
+AddCharModel(29, 20289, "bmycr11.dff", "bmycr11.txd");
+AddCharModel(29, 20290, "bmyri11.dff", "bmyri11.txd");
+AddCharModel(29, 20291, "hmycr_1.dff", "hmycr_1.txd");
+AddCharModel(29, 20292, "thomas_shelby.dff", "thomas_shelby.txd");
+AddCharModel(29, 20293, "Vin_Diesel.dff", "Vin_Diesel.txd");
