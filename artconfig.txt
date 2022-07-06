@@ -294,3 +294,5 @@ AddCharModel(29, 20295, "itsvincy.dff", "itsvincy.txd");
 AddCharModel(12, 20296, "memutattoo.dff", "memutattoo.txd");
 
 AddCharModel(29, 20297, "santana.dff", "santana.txd");
+
+AddCharModel(29, 20298, "skinmanuu.dff", "skinmanuu.txd");
