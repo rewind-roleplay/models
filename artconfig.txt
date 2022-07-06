@@ -287,3 +287,6 @@ AddCharModel(29, 20291, "hmycr_1.dff", "hmycr_1.txd");
 AddCharModel(29, 20292, "thomas_shelby.dff", "thomas_shelby.txd");
 
 AddCharModel(29, 20293, "VinDiesel.dff", "VinDiesel.txd");
+
+AddCharModel(29, 20294, "hmycr22.dff", "hmycr22.txd");
+AddCharModel(29, 20295, "itsvincy.dff", "itsvincy.txd");
