@@ -296,3 +296,16 @@ AddCharModel(12, 20296, "memutattoo.dff", "memutattoo.txd");
 AddCharModel(29, 20297, "santana.dff", "santana.txd");
 
 AddCharModel(29, 20298, "skinmanuu.dff", "skinmanuu.txd");
+
+AddCharModel(292, 20299, "cesar11.dff", "cesar11.txd");
+AddCharModel(292, 20300, "Connell_Patel.dff", "Connell_Patel.txd");
+AddCharModel(128, 20301, "dnmylc.dff", "dnmylc.txd");
+AddCharModel(128, 20302, "LordVoldemort.dff", "LordVoldemort.txd");
+AddCharModel(111, 20303, "maffa.dff", "maffa.txd");
+AddCharModel(111, 20304, "Roma163nyMyorten.dff", "Roma163nyMyorten.txd");
+AddCharModel(239, 20305, "swmotr4.dff", "swmotr4.txd");
+AddCharModel(72, 20306, "swmyhp11.dff", "swmyhp11.txd");
+AddCharModel(124, 20307, "vmaff1.dff", "vmaff1.txd");
+AddCharModel(206, 20308, "vwmycd11.dff", "vwmycd11.txd");
+AddCharModel(101, 20309, "wmyst.dff", "wmyst.txd");
+AddCharModel(12, 20310, "xnockautzx.dff", "xnockautzx.txd");
