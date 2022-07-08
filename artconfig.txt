@@ -310,6 +310,6 @@ AddCharModel(206, 20308, "vwmycd11.dff", "vwmycd11.txd");
 AddCharModel(101, 20309, "wmyst.dff", "wmyst.txd");
 AddCharModel(12, 20310, "xnockautzx.dff", "xnockautzx.txd");
 
-AddCharModel(101, 20310, "mastrict.dff", "mastrict.txd");
-AddCharModel(101, 20311, "wfycllv.dff", "wfycllv.txd");
-AddCharModel(101, 20312, "modelShip6.dff", "modelShip6.txd");
+AddCharModel(101, 20311, "mastrict.dff", "mastrict.txd");
+AddCharModel(101, 20312, "wfycllv.dff", "wfycllv.txd");
+AddCharModel(101, 20313, "modelShip6.dff", "modelShip6.txd");
