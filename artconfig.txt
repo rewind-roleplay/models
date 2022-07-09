@@ -313,3 +313,6 @@ AddCharModel(12, 20310, "xnockautzx.dff", "xnockautzx.txd");
 AddCharModel(101, 20311, "mastrict.dff", "mastrict.txd");
 AddCharModel(101, 20312, "wfycllv.dff", "wfycllv.txd");
 AddCharModel(101, 20313, "modelShip6.dff", "modelShip6.txd");
+AddCharModel(111, 20314, "takmelbisevalentinispecial.dff", "takmelbisevalentinispecial.txd");
+AddCharModel(111, 20315, "wfybe.dff", "wfybe.txd");
+AddCharModel(111, 20316, "wmycr1.dff", "wmycr1.txd");
