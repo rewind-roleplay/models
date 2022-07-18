@@ -346,3 +346,4 @@ AddCharModel(111, 20342, "persn3.dff", "persn3.txd");
 AddCharModel(111, 20343, "persn4.dff", "persn4.txd");
 AddCharModel(111, 20344, "persn5.dff", "persn5.txd");
 AddCharModel(111, 20345, "persn6.dff", "persn6.txd");
+AddCharModel(111, 20346, "skinfrancesco.dff", "skinfrancesco.txd");
