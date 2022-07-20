@@ -351,3 +351,9 @@ AddCharModel(111, 20348, "ninox.dff", "ninox.txd");
 AddCharModel(111, 20349, "Screppi.dff", "Screppi.txd");
 AddCharModel(111, 20350, "ShutzeX.dff", "ShutzeX.txd");
 AddCharModel(111, 20351, "skingin.dff", "skingin.txd");
+
+AddCharModel(111, 20352, "Detective.dff", "Detective.txd");
+AddCharModel(12, 20353, "eliza_corti.dff", "eliza_corti.txd");
+AddCharModel(12, 20354, "eliza_pelata.dff", "eliza_pelata.txd");
+AddCharModel(111, 20355, "f.dff", "f.txd");
+AddCharModel(111, 20356, "pigskin.dff", "pigskin.txd");
