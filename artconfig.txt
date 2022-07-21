@@ -357,3 +357,6 @@ AddCharModel(12, 20353, "eliza_corti.dff", "eliza_corti.txd");
 AddCharModel(12, 20354, "eliza_pelata.dff", "eliza_pelata.txd");
 AddCharModel(111, 20355, "f.dff", "f.txd");
 AddCharModel(111, 20356, "pigskin.dff", "pigskin.txd");
+AddCharModel(111, 20357, "wmygol2.dff", "wmygol2.txd");
+AddCharModel(111, 20358, "JCPaKy8517.dff", "JCPaKy8517.txd");
+AddCharModel(111, 20358, "wmycon1.dff", "wmycon1.txd");
