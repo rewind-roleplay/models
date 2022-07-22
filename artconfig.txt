@@ -360,3 +360,4 @@ AddCharModel(111, 20356, "pigskin.dff", "pigskin.txd");
 AddCharModel(111, 20357, "wmygol2.dff", "wmygol2.txd");
 AddCharModel(111, 20358, "JCPaKy8517.dff", "JCPaKy8517.txd");
 AddCharModel(111, 20359, "wmycon1.dff", "wmycon1.txd");
+AddCharModel(111, 20360, "mast1.dff", "mast1.txd");
