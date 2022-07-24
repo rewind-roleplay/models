@@ -371,3 +371,4 @@ AddCharModel(111, 20367, "CARTEL6.dff", "CARTEL6.txd");
 AddCharModel(111, 20368, "CARTEL7.dff", "CARTEL7.txd");
 AddCharModel(111, 20369, "CARTEL8.dff", "CARTEL8.txd");
 AddCharModel(111, 20370, "OldSheriff.dff", "OldSheriff.txd");
+AddCharModel(12, 20371, "eli.dff", "eli.txd");
