@@ -373,3 +373,8 @@ AddCharModel(111, 20369, "CARTEL8.dff", "CARTEL8.txd");
 AddCharModel(111, 20370, "OldSheriff.dff", "OldSheriff.txd");
 AddCharModel(12, 20371, "eli.dff", "eli.txd");
 AddCharModel(111, 20372, "skinmanuu.dff", "skinmanuu.txd");
+
+AddCharModel(111, 20373, "Gustavo_Guerrera.dff", "Gustavo_Guerrera.txd");
+AddCharModel(111, 20374, "error.dff", "error.txd");
+AddCharModel(111, 20375, "semiz.dff", "semiz.txd");
+AddCharModel(12, 20376, "штаны.dff", "штаны.txd");
