@@ -378,3 +378,4 @@ AddCharModel(111, 20373, "Gustavo_Guerrera.dff", "Gustavo_Guerrera.txd");
 AddCharModel(111, 20374, "error.dff", "error.txd");
 AddCharModel(111, 20375, "semiz.dff", "semiz.txd");
 AddCharModel(12, 20376, "штаны.dff", "штаны.txd");
+AddCharModel(111, 20377, "stonks.dff", "stonks.txd");
